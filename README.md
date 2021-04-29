@@ -1,6 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/BHA-Bilel)  
 ## 👋 Hi there, I’m BENHADJ AMAR Bilel
-aka Dani Bilel on social media
 #### I'm a Software Engineer 💻
 
 ### About Me :

@@ -1,5 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/BHA-Bilel)  
-## 👋 Hi there, I’m BENHADJ AMAR Bilel - aka Dani Bilel on social media
+## 👋 Hi there, I’m BENHADJ AMAR Bilel
+##### aka Dani Bilel on social media
 #### I'm a Software Engineer 💻
 
 ### About Me :
@@ -9,13 +10,14 @@
 
 
 I'm new to github, but I've been a developer for years 💪 learning from Youtube/college
-I have Master's degree 👨‍🎓 in Mathematics and Computer Science.
 
-Freelance carrer, here I come!
+I have Master's degree 👨‍🎓 in Mathematics and Computer Science.
 
 I'll soon publish my JavaFX side project board games!
 <!--- 🖐 Please check out my side projects and give me your thoughts! 🙏
         more will come in the future so keep in touch 🤝🎮🕹️♠️♥️♦️♣️♟️❌⭕⏩⏪©️®️ --->
+
+Freelance carrer, here I come!
 
 ## Languages :
 

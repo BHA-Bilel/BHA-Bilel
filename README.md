@@ -8,7 +8,7 @@ I'm new to github, but I've been a developer for years 💪
 
 - I have a Master's degree 👨‍🎓 in Mathematics and Computer Science
 - Coding is my ✨ passion ✨; my favorite hobby, and soon to be my career
-- I Learned the essentials through college and honed my skills on Youtube/StackOverflow
+- I learned the essentials through college and honed my skills on Youtube/StackOverflow
 - I’m a lifelong learner, always trying to improve myself
 - I'm Algerian 📍 🇩🇿
 - I'm Muslim ☪️

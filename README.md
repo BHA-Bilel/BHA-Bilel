@@ -1,32 +1,35 @@
 ![Profile views](https://gpvc.arturio.dev/BHA-Bilel)  
 ## 👋 Hi there, I’m BENHADJ AMAR Bilel
-#### I'm a Software Engineer 💻
+#### I'm a Software Engineer 👨‍💻
+
+I'm new to github, but I've been a developer for years 💪
 
 ### About Me :
 
-- 📍  🇩🇿 
-- ☪️ Muslim
+- I have a Master's degree 👨‍🎓 in Mathematics and Computer Science
+- Coding is my ✨ passion ✨; my favorite hobby, and soon to be my career
+- I Learned the essentials through college and honed my skills on Youtube/StackOverflow
+- I’m a lifelong learner, always trying to improve myself
+- I'm Algerian 📍 🇩🇿
+- I'm Muslim ☪️
 
-
-I'm new to github, but I've been a developer for years 💪 learning from Youtube/college
-
-I have Master's degree 👨‍🎓 in Mathematics and Computer Science.
-
-I'll soon publish my JavaFX side project board games!
+I'll soon publish my JavaFX board games, stay tuned!
 <!--- 🖐 Please check out my side projects and give me your thoughts! 🙏
-        more will come in the future so keep in touch 🤝🎮🕹️♠️♥️♦️♣️♟️❌⭕⏩⏪©️®️ --->
+        more will come in the future so keep in touch 🤝--->
 
-Freelance carrer, here I come!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHA-Bilel)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages :
 
 - Java
 - JavaFX
 - Python
+- whatever i need to lean...
 
 ## Frameworks :
 
 - Flask
+- long road ahead...
 
 ## IDEs :
 
@@ -34,17 +37,13 @@ Freelance carrer, here I come!
 - Intellij
 - PyCharm
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHA-Bilel)](https://github.com/anuraghazra/github-readme-stats)
-
 You can find here:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bilel-bha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dani.bilel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dani_bilel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8761799/dani-bilel)  
 
-## How I learned :
+## Tutorial recommendation :
 
 - [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
-- [Java/JavaFX](https://www.youtube.com)
 
 <!--
 - 👀 I’m interested in all kinds of software development, especially Game Dev and Web Dev

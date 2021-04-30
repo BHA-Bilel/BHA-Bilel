@@ -7,13 +7,18 @@ I'm new to github, but I've been a developer for years 💪
 ### About Me :
 
 - I have a Master's degree 👨‍🎓 in Mathematics and Computer Science
-- Coding is my ✨ passion ✨; my favorite hobby, and soon to be my career
+- Coding is my passion 💖; my favorite hobby, and soon to be my ✨ career ✨
 - I learned the essentials through college and honed my skills on Youtube/StackOverflow
 - I’m a lifelong learner, always trying to improve myself
 - I'm Algerian 📍 🇩🇿
 - I'm Muslim ☪️
 
-I'll soon publish my JavaFX board games, stay tuned!
+## My TODOs
+
+- I'll soon publish my JavaFX board games, stay tuned!
+- Publish my thesis webapp created in Flask(Python)
+- Publish android versions of my board games
+
 <!--- 🖐 Please check out my side projects and give me your thoughts! 🙏
         more will come in the future so keep in touch 🤝--->
 
@@ -43,15 +48,23 @@ You can find here:
 
 ## Tutorial recommendation :
 
-- [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) by Corey Schafer.
 
+
+<!--
+<p align="center">
+  <a href="https://gist.github.com/BHA-Bilel/6eb01c298f0ccceff7511427afb52534">
+    <img src="https://gist.githubusercontent.com/BHA-Bilel/6eb01c298f0ccceff7511427afb52534/raw/bfaf1c70946579fe9f4991d923215d7f402de250/bguestbook.gif" alt="Click here to sign my guestbook!">
+  </a>
+</p>
+---> 
 <!--
 - 👀 I’m interested in all kinds of software development, especially Game Dev and Web Dev
 - 🌱 I’m a lifelong learner, i've learned Java, JavaFX and Python so far
 - 💞️ I’m looking to collaborate on ...
 - 📫 You  can reach me here: bilel.bha.pro@gmail.com
 - 🥅 2021 Goals: Improve myself and enter the freelance world
-- ---> 
+---> 
 <!---
 BHA-Bilel/BHA-Bilel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

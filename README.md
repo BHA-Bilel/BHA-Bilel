@@ -6,18 +6,19 @@ I'm new to github, but I've been a developer for years 💪
 
 ### About Me :
 
-- I have a Master's degree 👨‍🎓 in Mathematics and Computer Science
+- Master's degree 👨‍🎓 in Mathematics and Computer Science
 - Coding is my passion 💖; my favorite hobby, and soon to be my ✨ career ✨
-- I learned the essentials through college and honed my skills on Youtube/StackOverflow
-- I’m a lifelong learner, always trying to improve myself
-- I'm Algerian 📍 🇩🇿
-- I'm Muslim ☪️
+- Learned the essentials through college and honed my skills on Youtube/StackOverflow
+- Lifelong learner, always trying to improve myself
+- Algerian 📍 🇩🇿
+- Muslim ☪️
 
 ## My TODOs :
-Projects that i worked on in the past:
-- I'll soon publish my JavaFX board games, stay tuned!
-- Publish my thesis webapp created in Flask(Python)
-- Publish android versions of my board games
+Publishing personal projects:
+- JavaFX board games collection... working on it
+- my thesis webapp created in Flask(Python)... next
+- my thesis desktop app created in PyQt5(Python)... next in queue
+- android versions of my board games... next in queue
 
 <!--- 🖐 Please check out my side projects and give me your thoughts! 🙏
         more will come in the future so keep in touch 🤝--->

@@ -57,7 +57,7 @@ Publishing personal projects:
 leave your thoughts/recommendations on my guestbook!
 
 <p align="center">
-  <a href="https://gist.github.com/BHA-Bilel/6eb01c298f0ccceff7511427afb52534">
-    <img src="https://gist.githubusercontent.com/BHA-Bilel/6eb01c298f0ccceff7511427afb52534/raw/bfaf1c70946579fe9f4991d923215d7f402de250/bguestbook.gif" alt="Click here to sign my guestbook!" target=”_blank”>
+  <a href="https://gist.github.com/BHA-Bilel/6eb01c298f0ccceff7511427afb52534" target=”_blank”>
+    <img src="https://gist.githubusercontent.com/BHA-Bilel/6eb01c298f0ccceff7511427afb52534/raw/bfaf1c70946579fe9f4991d923215d7f402de250/bguestbook.gif" alt="Click here to sign my guestbook!">
   </a>
 </p>

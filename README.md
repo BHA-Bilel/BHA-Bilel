@@ -17,8 +17,10 @@ I'm new to github, but I've been a developer for years 💪
 # My TODOs
 Publishing personal projects:
 - JavaFX board games collection ---> working on it...
+<!--
 - my thesis webapp created in Flask(Python)
 - my thesis desktop app created in PyQt5(Python)
+-->
 
 <!---
 # Personal projects

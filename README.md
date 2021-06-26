@@ -31,7 +31,7 @@ Thanks to my academic background && my hard work, learning new skills became jus
   
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-#### For my Master's [Thesis](https://github.com/BHA-Bilel/thesis/)
+#### For my Master's [Thesis](https://github.com/BHA-Bilel/Master-Thesis/)
   
 - I trained some classification models using
     
@@ -40,8 +40,6 @@ Thanks to my academic background && my hard work, learning new skills became jus
 - I also used gensim's Doc2Vec similarity. Then I made a website using
 
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-
-###### would definitly recommend [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) by **Corey Schafer**.
 
   #### I worked with these DBMS
   
